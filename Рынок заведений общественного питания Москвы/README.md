@@ -15,4 +15,4 @@
 2. Подготовить выводы и презентацию для инвесторов.
 
 Библиотеки:
-Pandas, Plotly
+Pandas, Plotly,Matplotlib
