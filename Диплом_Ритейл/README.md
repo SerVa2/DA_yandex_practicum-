@@ -7,9 +7,9 @@
 Провести исследовательский анализ данных.
 Оценить эффективность.
 Сформулировать и проверить статистические гипотезы.
-## Ссылка на дашборд <https://public.tableau.com/views/N_16847649232770/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link>
+### Ссылка на дашборд <https://public.tableau.com/views/N_16847649232770/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link>
 
-## Ссыдка на презентацию <https://disk.yandex.ru/i/wXCm5HmZ7O6oAQ>
+### Ссыдка на презентацию <https://disk.yandex.ru/i/wXCm5HmZ7O6oAQ>
 
 ## Используемые библиотеки:
 pandas, numpy, plotly.express, scipy.stats
