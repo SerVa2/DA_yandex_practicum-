@@ -26,4 +26,4 @@ Pandas, Plotly,Matplotlib
 
 **Выводы и рекомендации:**
 
-Выводы и рекомендации по открытию кофейни излжены ав презентации: https://disk.yandex.ru/i/STGW0g6btJ40EQ
+Выводы и рекомендации по открытию кофейни излжены в презентации: https://disk.yandex.ru/i/STGW0g6btJ40EQ
