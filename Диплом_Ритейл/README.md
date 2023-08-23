@@ -41,6 +41,7 @@
 
 Обратить внимание на качество собираемых данных.
 
+
 ### Ссылка на дашборд <https://public.tableau.com/views/N_16847649232770/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link>
 
 ### Ссыдка на презентацию <https://disk.yandex.ru/i/wXCm5HmZ7O6oAQ>
